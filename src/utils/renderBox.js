@@ -73,7 +73,7 @@ export const renderBoxes = (
 };
 
 class Colors {
-  // ultralytics color palette https://ultralytics.com/
+  
   constructor() {
     this.palette = [
       "#FF3838",
